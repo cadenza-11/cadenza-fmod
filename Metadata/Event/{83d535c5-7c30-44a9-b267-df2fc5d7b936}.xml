@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{83d535c5-7c30-44a9-b267-df2fc5d7b936}">
 		<property name="name">
 			<value>MUS_PlayerInput</value>

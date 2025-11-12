@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{525d6f8d-909a-49f9-b032-706d4a3ff930}">
 		<property name="assetPath">
 			<value>SFX/29-clap-101soundboards.mp3</value>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{4cf92185-b026-4c24-b071-83afe905538b}">
 		<property name="assetPath">
 			<value>SFX/synth_perfect.wav</value>

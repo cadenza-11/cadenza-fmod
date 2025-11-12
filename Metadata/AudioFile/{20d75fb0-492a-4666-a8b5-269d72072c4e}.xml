@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{20d75fb0-492a-4666-a8b5-269d72072c4e}">
 		<property name="assetPath">
 			<value>SFX/se_common_justshield.wav</value>

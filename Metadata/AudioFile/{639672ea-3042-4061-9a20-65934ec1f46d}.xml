@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{639672ea-3042-4061-9a20-65934ec1f46d}">
 		<property name="assetPath">
 			<value>SFX/G5-drone.wav</value>

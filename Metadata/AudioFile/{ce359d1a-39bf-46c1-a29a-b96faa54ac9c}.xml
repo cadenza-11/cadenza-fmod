@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{ce359d1a-39bf-46c1-a29a-b96faa54ac9c}">
 		<property name="assetPath">
 			<value>SFX/synth_good.wav</value>
