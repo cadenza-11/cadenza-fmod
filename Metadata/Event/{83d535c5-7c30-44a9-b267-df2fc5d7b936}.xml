@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{83d535c5-7c30-44a9-b267-df2fc5d7b936}">
 		<property name="name">
-			<value>MUS_PlayerInput</value>
+			<value>SFX_PlayerTone</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -34,9 +34,6 @@
 		<relationship name="parameters">
 			<destination>{fc850799-9392-4f6a-9182-592eb25d0210}</destination>
 		</relationship>
-		<relationship name="banks">
-			<destination>{c5bac2ad-7c93-441a-a281-d6b4dbf4e9b5}</destination>
-		</relationship>
 	</object>
 	<object class="EventMixer" id="{1aa43e7e-798a-42c4-aceb-299dea25c67a}">
 		<relationship name="masterBus">
@@ -56,7 +53,7 @@
 			<destination>{a7ae798b-976f-494f-92e9-374fbc876da7}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{b3b2b2ad-9e65-4acf-85fb-01b5ab76e7f5}</destination>
+			<destination>{4351360c-8535-4500-9af9-bf51d6b692d0}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{26dd3759-ee6b-40a3-8b9f-e9c03c44160d}" />

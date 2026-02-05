@@ -40,32 +40,50 @@
 			<value>frequencyA</value>
 		</property>
 		<relationship name="automationCurves">
-			<destination>{a3c45360-dac4-4641-a94e-4aba50aa883d}</destination>
+			<destination>{651f4f0b-abc7-47aa-b950-b160285d3968}</destination>
 		</relationship>
 	</object>
-	<object class="AutomationCurve" id="{a3c45360-dac4-4641-a94e-4aba50aa883d}">
+	<object class="AutomationCurve" id="{651f4f0b-abc7-47aa-b950-b160285d3968}">
 		<relationship name="parameter">
-			<destination>{1ef4d06a-85ae-48c1-a9b2-2eeb1eb567ec}</destination>
+			<destination>{2ddfba95-b2d1-4815-bf23-9e5b6728b951}</destination>
 		</relationship>
 		<relationship name="automationPoints">
-			<destination>{4cef8268-c55e-440b-bc81-3f7014a5f6d1}</destination>
-			<destination>{9e1d0f04-2f20-40b1-b637-88203d675078}</destination>
+			<destination>{c77514d0-6396-4baa-bbe4-9bb0faa74fec}</destination>
+			<destination>{1fea1ea7-238d-4b98-9f0e-0d941d3e1994}</destination>
+			<destination>{1f7d9d62-94c3-4983-99cf-1fb0ad7ef456}</destination>
+			<destination>{2896a4c6-d89e-4b17-bd0f-f2b10aecfdaa}</destination>
 		</relationship>
 	</object>
-	<object class="AutomationPoint" id="{4cef8268-c55e-440b-bc81-3f7014a5f6d1}">
+	<object class="AutomationPoint" id="{c77514d0-6396-4baa-bbe4-9bb0faa74fec}">
 		<property name="position">
 			<value>0</value>
+		</property>
+		<property name="value">
+			<value>650</value>
+		</property>
+	</object>
+	<object class="AutomationPoint" id="{1fea1ea7-238d-4b98-9f0e-0d941d3e1994}">
+		<property name="position">
+			<value>3</value>
 		</property>
 		<property name="value">
 			<value>22000</value>
 		</property>
 	</object>
-	<object class="AutomationPoint" id="{9e1d0f04-2f20-40b1-b637-88203d675078}">
+	<object class="AutomationPoint" id="{1f7d9d62-94c3-4983-99cf-1fb0ad7ef456}">
 		<property name="position">
 			<value>1</value>
 		</property>
 		<property name="value">
-			<value>650</value>
+			<value>22000</value>
+		</property>
+	</object>
+	<object class="AutomationPoint" id="{2896a4c6-d89e-4b17-bd0f-f2b10aecfdaa}">
+		<property name="position">
+			<value>2</value>
+		</property>
+		<property name="value">
+			<value>22000</value>
 		</property>
 	</object>
 </objects>
