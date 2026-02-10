@@ -932,7 +932,6 @@
 		<property name="timelockedOffset">
 			<value>0.00087499999999884892</value>
 		</property>
-		<property name="name" />
 		<relationship name="audioFile">
 			<destination>{47e6b99c-7f96-4260-a8e1-ad88eedb2d88}</destination>
 		</relationship>
@@ -1965,7 +1964,7 @@
 	</object>
 	<object class="AutomationPoint" id="{20a7c0d9-3289-42fb-af5b-7c1b4f6ba081}">
 		<property name="position">
-			<value>1</value>
+			<value>0.5</value>
 		</property>
 		<property name="value">
 			<value>0</value>
@@ -1989,7 +1988,7 @@
 	</object>
 	<object class="AutomationPoint" id="{5fafc17c-c47e-49a5-8d5a-a89e719ccab2}">
 		<property name="position">
-			<value>1</value>
+			<value>0.5</value>
 		</property>
 		<property name="value">
 			<value>0</value>
