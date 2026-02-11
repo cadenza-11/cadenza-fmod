@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{4086ec54-c935-4ca1-8b00-a93d26bd46b6}">
+	<object class="AudioFile" id="{676365c6-4c86-4aff-8a6f-6aa7c53973f3}">
 		<property name="assetPath">
-			<value>SFX/Crowd/applause-cheer-236786.mp3</value>
+			<value>SFX/Crowd/universfield-crowd-shocked-reaction-352766.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>8.0399999999999991</value>
+			<value>2.6160000000000001</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{14d7e367-5f9c-4bfc-ae12-8b7dfe378041}</destination>
