@@ -1,30 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="ParameterPreset" id="{6bb8d8fc-a85f-40c1-934c-f18bcdbca9d4}">
+	<object class="ParameterPreset" id="{ee4967ee-9119-4406-bd22-ba64d2767548}">
 		<property name="name">
-			<value>GameState</value>
+			<value>HitFeedback</value>
 		</property>
 		<relationship name="folder">
 			<destination>{b79b8528-5a2a-4677-9953-3ece844824f3}</destination>
 		</relationship>
 		<relationship name="parameter">
-			<destination>{2ddfba95-b2d1-4815-bf23-9e5b6728b951}</destination>
+			<destination>{e5edf5f0-0d3a-442d-8b8b-901882be3fef}</destination>
 		</relationship>
 	</object>
-	<object class="GameParameter" id="{2ddfba95-b2d1-4815-bf23-9e5b6728b951}">
+	<object class="GameParameter" id="{e5edf5f0-0d3a-442d-8b8b-901882be3fef}">
 		<property name="parameterType">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<property name="maximum">
-			<value>6</value>
-		</property>
-		<property name="enumerationLabels">
-			<value>Paused</value>
-			<value>Menu</value>
-			<value>CharacterSelect</value>
-			<value>Backstage</value>
-			<value>Stage</value>
-			<value>Combat</value>
+			<value>2</value>
 		</property>
 		<property name="isGlobal">
 			<value>true</value>
