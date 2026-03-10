@@ -5,7 +5,7 @@
 			<value>SFX_UI_Navigate</value>
 		</property>
 		<property name="outputFormat">
-			<value>0</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{f22d728b-3292-43cd-b769-b706e1675365}</destination>
@@ -56,7 +56,7 @@
 			<destination>{f2406965-8848-4c81-88c6-4b044611b9ae}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{b6408e17-9fe5-4200-a104-b5da516fa1f3}</destination>
+			<destination>{21f9aac3-e2c9-44c7-98e6-780669498e59}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{a70bd8e1-e52e-4501-8d04-84217cb74995}" />
@@ -84,7 +84,7 @@
 	</object>
 	<object class="MultiSound" id="{2b5724ec-0a04-49d1-8444-0ceff8dc7254}">
 		<relationship name="sounds">
-			<destination>{19e72641-6a2e-4c85-a0db-ed2097dec094}</destination>
+			<destination>{8374d4b2-98ed-4ed8-914d-3aeebad31e73}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{b86041ee-7f2a-4f77-bf58-d9c04fc222f8}">
@@ -99,12 +99,9 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{df7b25b9-0821-4330-a3a9-febe5ee7dd33}" />
-	<object class="SingleSound" id="{19e72641-6a2e-4c85-a0db-ed2097dec094}">
-		<property name="startOffset">
-			<value>6</value>
-		</property>
+	<object class="SingleSound" id="{8374d4b2-98ed-4ed8-914d-3aeebad31e73}">
 		<relationship name="audioFile">
-			<destination>{c1fa6d71-b863-4493-9be3-d2eb2c0b7853}</destination>
+			<destination>{b2017a82-3122-4259-96b4-4c11c4974cd6}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{00380e12-0ff9-42c7-a978-73e5e6a667e8}" />
