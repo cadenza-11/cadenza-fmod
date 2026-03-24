@@ -1,0 +1,31 @@
+#
+# Git attributes for Unity projects
+#
+# Compiled by the GameCI community under the MIT license - https://game.ci
+#
+# Latest version at https://gist.github.com/webbertakken/ff250a0d5e59a8aae961c2e509c07fbc
+#
+
+# Ensure that text files that any contributor introduces to the repository have their line endings normalized
+* text=auto
+
+# Macro attribute: Files intended for LFS
+[attr]lfs-file filter=lfs diff=lfs merge=lfs -text
+
+# Audio formats
+*.aif lfs-file
+*.aiff lfs-file
+*.it lfs-file
+*.mod lfs-file
+*.mp3 lfs-file
+*.ogg lfs-file
+*.s3m lfs-file
+*.wav lfs-file
+*.xm lfs-file
+
+# Packaging
+*.zip lfs-file
+*.7z lfs-file
+*.gz lfs-file
+*.rar lfs-file
+*.tar lfs-file
