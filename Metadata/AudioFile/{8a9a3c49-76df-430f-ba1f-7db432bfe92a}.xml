@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{8a9a3c49-76df-430f-ba1f-7db432bfe92a}">
 		<property name="assetPath">
-			<value>SFX/1POSReaction_3.wav</value>
+			<value>SFX/Crowd/1POSReaction_3.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>22.0499992</value>
