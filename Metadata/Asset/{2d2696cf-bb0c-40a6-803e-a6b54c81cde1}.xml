@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{2d2696cf-bb0c-40a6-803e-a6b54c81cde1}">
+		<property name="assetPath">
+			<value>MUS/KungFuJoyride/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{14d7e367-5f9c-4bfc-ae12-8b7dfe378041}</destination>
+		</relationship>
+	</object>
+</objects>

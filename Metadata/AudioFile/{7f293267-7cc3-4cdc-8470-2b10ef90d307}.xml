@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{7f293267-7cc3-4cdc-8470-2b10ef90d307}">
+		<property name="assetPath">
+			<value>MUS/KungFuJoyride/Bass-Lead-in-1.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>14.172947845804989</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{14d7e367-5f9c-4bfc-ae12-8b7dfe378041}</destination>
+		</relationship>
+	</object>
+</objects>
