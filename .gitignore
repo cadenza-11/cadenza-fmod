@@ -1,5 +1,11 @@
 .DS_Store
+
+# FMOD
 .cache/
 .unsaved/
 .user/
 Metadata/Workspace.xml
+
+# REAPER
+peaks/
+Backups/
