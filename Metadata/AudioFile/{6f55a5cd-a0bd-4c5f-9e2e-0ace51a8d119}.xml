@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{6f55a5cd-a0bd-4c5f-9e2e-0ace51a8d119}">
+		<property name="assetPath">
+			<value>MUS/KungFuJoyride/Drums-Bridge.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>29.112517006802722</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{14d7e367-5f9c-4bfc-ae12-8b7dfe378041}</destination>
+		</relationship>
+	</object>
+</objects>
