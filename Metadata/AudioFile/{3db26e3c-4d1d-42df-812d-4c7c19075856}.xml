@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{98fc7a00-6478-4b9d-b1c2-0c6e57948195}">
+	<object class="AudioFile" id="{3db26e3c-4d1d-42df-812d-4c7c19075856}">
 		<property name="assetPath">
-			<value>MUS/Samba/samba-backing.wav</value>
-		</property>
-		<property name="isStreaming">
-			<value>true</value>
+			<value>MUS/Rock-2/Guitar-Outro.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
@@ -14,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>5.9326984126984126</value>
+			<value>4.2000000000000002</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{14d7e367-5f9c-4bfc-ae12-8b7dfe378041}</destination>

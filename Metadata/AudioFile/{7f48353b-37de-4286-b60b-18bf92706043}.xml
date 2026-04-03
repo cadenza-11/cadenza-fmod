@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{98fc7a00-6478-4b9d-b1c2-0c6e57948195}">
+	<object class="AudioFile" id="{7f48353b-37de-4286-b60b-18bf92706043}">
 		<property name="assetPath">
-			<value>MUS/Samba/samba-backing.wav</value>
+			<value>MUS/Rock-2/Piano-Guitar_Loop.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
@@ -14,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>5.9326984126984126</value>
+			<value>105.59390022675737</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{14d7e367-5f9c-4bfc-ae12-8b7dfe378041}</destination>
