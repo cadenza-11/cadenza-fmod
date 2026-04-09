@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{4301f844-499c-4f03-ad62-29a72296bdca}">
+		<property name="name">
+			<value>DJ_PoweringDown</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b79b8528-5a2a-4677-9953-3ece844824f3}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{dd7c0b63-9f44-494c-b379-4c02c38cbbbc}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{dd7c0b63-9f44-494c-b379-4c02c38cbbbc}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
