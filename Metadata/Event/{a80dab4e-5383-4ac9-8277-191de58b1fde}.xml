@@ -47,8 +47,6 @@
 			<destination>{be8d661a-fab3-4474-9e34-529a822dbbb2}</destination>
 			<destination>{ade6e1d3-abdf-489d-a32a-10899bff10cf}</destination>
 			<destination>{fb8e1c8e-9054-4ce4-9a1c-30ea2b0ebff4}</destination>
-			<destination>{aaad90cb-00b9-4784-bcb0-d4b2b079c437}</destination>
-			<destination>{7d13c693-4448-4ce4-a856-b1a7fe207163}</destination>
 		</relationship>
 		<relationship name="banks">
 			<destination>{c5bac2ad-7c93-441a-a281-d6b4dbf4e9b5}</destination>
@@ -90,8 +88,6 @@
 			<destination>{3e8340cb-a811-4c35-92b2-5683a2126ca0}</destination>
 		</relationship>
 		<relationship name="modules">
-			<destination>{c7b5bafc-1382-47f3-b02b-5636c0fb2168}</destination>
-			<destination>{2a452778-a5d1-4c25-80f8-7320210682f8}</destination>
 			<destination>{d6b58bce-d433-41fd-abf5-19f875ddac27}</destination>
 			<destination>{78b7443e-210c-4ccf-9adc-d5e26dc42ebe}</destination>
 			<destination>{a46f6686-c45f-4674-9b1e-4426969d3b8e}</destination>
@@ -250,20 +246,6 @@
 			<destination>{2ddfba95-b2d1-4815-bf23-9e5b6728b951}</destination>
 		</relationship>
 	</object>
-	<object class="ParameterProxy" id="{aaad90cb-00b9-4784-bcb0-d4b2b079c437}">
-		<relationship name="modules">
-			<destination>{c7b5bafc-1382-47f3-b02b-5636c0fb2168}</destination>
-			<destination>{2a452778-a5d1-4c25-80f8-7320210682f8}</destination>
-		</relationship>
-		<relationship name="preset">
-			<destination>{e5edf5f0-0d3a-442d-8b8b-901882be3fef}</destination>
-		</relationship>
-	</object>
-	<object class="ParameterProxy" id="{7d13c693-4448-4ce4-a856-b1a7fe207163}">
-		<relationship name="preset">
-			<destination>{6e0c2779-6040-49a5-a52e-a69eb3833ca5}</destination>
-		</relationship>
-	</object>
 	<object class="EventMixerMaster" id="{865b8c4e-0263-42f7-99f4-e0b60d782ffb}">
 		<relationship name="modulators">
 			<destination>{3a28938f-f6b3-406b-b22d-891520ab10d9}</destination>
@@ -300,28 +282,6 @@
 	<object class="AutomationTrack" id="{3e8340cb-a811-4c35-92b2-5683a2126ca0}">
 		<relationship name="automator">
 			<destination>{47ef2afc-9f1b-49ac-8c0a-1a426256e636}</destination>
-		</relationship>
-	</object>
-	<object class="CommandSound" id="{c7b5bafc-1382-47f3-b02b-5636c0fb2168}">
-		<property name="start">
-			<value>1</value>
-		</property>
-		<property name="commandType">
-			<value>3</value>
-		</property>
-		<relationship name="commandTarget">
-			<destination>{e5edf5f0-0d3a-442d-8b8b-901882be3fef}</destination>
-		</relationship>
-	</object>
-	<object class="EventSound" id="{2a452778-a5d1-4c25-80f8-7320210682f8}">
-		<property name="start">
-			<value>1</value>
-		</property>
-		<property name="quantizationInterval">
-			<value>5</value>
-		</property>
-		<relationship name="event">
-			<destination>{3fba90c9-65d1-4617-83fb-27ed46ee0f73}</destination>
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{d6b58bce-d433-41fd-abf5-19f875ddac27}">

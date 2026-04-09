@@ -49,7 +49,6 @@
 			<destination>{85f9b64a-ce84-41b1-811a-400d15c3b703}</destination>
 			<destination>{78b2bc7b-7e33-4493-8941-2782c235b446}</destination>
 			<destination>{58dc534f-4edc-4ddd-918e-8a0bfc6d7c93}</destination>
-			<destination>{603e107c-f0b0-495f-944b-ab2979b310c3}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{a68ffac0-a2ce-44b5-8904-ce09c99a763a}">
@@ -111,8 +110,6 @@
 			<destination>{30ba868b-8bb5-46df-a794-151894470f14}</destination>
 			<destination>{5a32264e-1dee-4606-b3ed-ca8f82ba7310}</destination>
 			<destination>{feb58736-0626-4614-b081-616f4cdf5f09}</destination>
-			<destination>{56fe9fdb-8d1f-421a-9ed1-24d2fc0c5f35}</destination>
-			<destination>{4dc99ea8-043e-4be8-b751-848975d42317}</destination>
 			<destination>{faea4ca6-b984-47e9-aa6c-57a4bd63b010}</destination>
 			<destination>{a30b7d63-874a-42dd-a56e-d33c5b5b4b20}</destination>
 			<destination>{e9db0186-ff81-4da5-94ee-f34e93aa7eb4}</destination>
@@ -424,15 +421,6 @@
 			<destination>{2ddfba95-b2d1-4815-bf23-9e5b6728b951}</destination>
 		</relationship>
 	</object>
-	<object class="ParameterProxy" id="{603e107c-f0b0-495f-944b-ab2979b310c3}">
-		<relationship name="modules">
-			<destination>{56fe9fdb-8d1f-421a-9ed1-24d2fc0c5f35}</destination>
-			<destination>{4dc99ea8-043e-4be8-b751-848975d42317}</destination>
-		</relationship>
-		<relationship name="preset">
-			<destination>{e5edf5f0-0d3a-442d-8b8b-901882be3fef}</destination>
-		</relationship>
-	</object>
 	<object class="EventMixerMaster" id="{6fbd62bb-121a-434a-bed7-ae4ed52472e8}">
 		<relationship name="effectChain">
 			<destination>{0956e8fb-2e89-4a80-9f1d-82267499cf86}</destination>
@@ -619,28 +607,6 @@
 		<property name="length">
 			<value>0</value>
 		</property>
-	</object>
-	<object class="CommandSound" id="{56fe9fdb-8d1f-421a-9ed1-24d2fc0c5f35}">
-		<property name="start">
-			<value>1</value>
-		</property>
-		<property name="commandType">
-			<value>3</value>
-		</property>
-		<relationship name="commandTarget">
-			<destination>{e5edf5f0-0d3a-442d-8b8b-901882be3fef}</destination>
-		</relationship>
-	</object>
-	<object class="EventSound" id="{4dc99ea8-043e-4be8-b751-848975d42317}">
-		<property name="start">
-			<value>1</value>
-		</property>
-		<property name="quantizationInterval">
-			<value>5</value>
-		</property>
-		<relationship name="event">
-			<destination>{3fba90c9-65d1-4617-83fb-27ed46ee0f73}</destination>
-		</relationship>
 	</object>
 	<object class="CommandSound" id="{faea4ca6-b984-47e9-aa6c-57a4bd63b010}">
 		<property name="length">
