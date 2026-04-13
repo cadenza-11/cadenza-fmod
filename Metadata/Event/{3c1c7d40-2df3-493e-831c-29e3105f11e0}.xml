@@ -3147,10 +3147,10 @@
 	</object>
 	<object class="ParameterCondition" id="{612ddab5-c494-4cbf-a1fa-44a0faf433a6}">
 		<property name="minimum">
-			<value>6</value>
+			<value>7</value>
 		</property>
 		<property name="maximum">
-			<value>6</value>
+			<value>7</value>
 		</property>
 		<relationship name="parameter">
 			<destination>{2ddfba95-b2d1-4815-bf23-9e5b6728b951}</destination>
@@ -3671,7 +3671,7 @@
 	</object>
 	<object class="AutomationPoint" id="{aa8ded37-8419-47a6-a302-5d7c566c4685}">
 		<property name="position">
-			<value>6</value>
+			<value>7</value>
 		</property>
 		<property name="value">
 			<value>-6</value>
@@ -3776,7 +3776,7 @@
 	</object>
 	<object class="AutomationPoint" id="{9ae7540f-96b8-43c6-9421-77130553cb73}">
 		<property name="position">
-			<value>6</value>
+			<value>7</value>
 		</property>
 		<property name="value">
 			<value>2000</value>
