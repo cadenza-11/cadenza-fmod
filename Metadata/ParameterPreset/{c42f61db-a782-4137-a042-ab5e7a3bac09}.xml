@@ -1,33 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="ParameterPreset" id="{6bb8d8fc-a85f-40c1-934c-f18bcdbca9d4}">
+	<object class="ParameterPreset" id="{c42f61db-a782-4137-a042-ab5e7a3bac09}">
 		<property name="name">
-			<value>GameState</value>
+			<value>SelectedLevelID</value>
 		</property>
 		<relationship name="folder">
 			<destination>{b79b8528-5a2a-4677-9953-3ece844824f3}</destination>
 		</relationship>
 		<relationship name="parameter">
-			<destination>{2ddfba95-b2d1-4815-bf23-9e5b6728b951}</destination>
+			<destination>{d07f5124-6d69-4733-8f91-d21e6fd83679}</destination>
 		</relationship>
 	</object>
-	<object class="GameParameter" id="{2ddfba95-b2d1-4815-bf23-9e5b6728b951}">
+	<object class="GameParameter" id="{d07f5124-6d69-4733-8f91-d21e6fd83679}">
 		<property name="parameterType">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<property name="maximum">
-			<value>9</value>
-		</property>
-		<property name="enumerationLabels">
-			<value>Paused</value>
-			<value>Menu</value>
-			<value>CharacterSelect</value>
-			<value>LevelSelect</value>
-			<value>Backstage</value>
-			<value>Stage</value>
-			<value>Combat</value>
-			<value>Postcombat</value>
-			<value>Results</value>
+			<value>11</value>
 		</property>
 		<property name="isGlobal">
 			<value>true</value>
