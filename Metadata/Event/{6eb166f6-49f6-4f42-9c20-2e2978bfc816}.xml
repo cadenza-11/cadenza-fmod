@@ -378,9 +378,6 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{d1bc33fc-46a1-42bc-aaa1-6c870571c8fd}">
-		<property name="volume">
-			<value>-9.5</value>
-		</property>
 		<relationship name="modulators">
 			<destination>{3adb31b9-6fc5-4d26-8d69-3a068cd394bc}</destination>
 		</relationship>
@@ -1988,6 +1985,9 @@
 		</property>
 	</object>
 	<object class="EventMixerGroup" id="{26e11f80-6aa6-4876-ac5b-d7d286373df4}">
+		<property name="volume">
+			<value>5</value>
+		</property>
 		<property name="name">
 			<value>COUNT-IN</value>
 		</property>

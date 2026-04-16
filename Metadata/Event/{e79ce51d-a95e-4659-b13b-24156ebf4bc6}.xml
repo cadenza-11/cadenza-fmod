@@ -1251,6 +1251,9 @@
 		</property>
 	</object>
 	<object class="EventMixerGroup" id="{8ef515b6-a217-407e-be8c-fcbe8273a0d2}">
+		<property name="volume">
+			<value>4.5</value>
+		</property>
 		<property name="name">
 			<value>COUNT-IN</value>
 		</property>
