@@ -61,7 +61,7 @@
 			<destination>{0aeb38f9-3879-4917-aed5-0c51b52eb9e9}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{4351360c-8535-4500-9af9-bf51d6b692d0}</destination>
+			<destination>{6dc5c79c-e96c-4e53-9b1b-f2cfe3c39e3c}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{08f909e4-32ea-4f64-9ca4-4141cb7677ff}" />
@@ -153,6 +153,9 @@
 	<object class="MixerBusEffectChain" id="{a4d42011-c9e7-4e0a-a5b4-df88e56321da}">
 		<relationship name="effects">
 			<destination>{004fc591-fdcd-433f-8d90-e69d79c637e2}</destination>
+			<destination>{a1b50d41-3ab7-4a09-952d-f466814ebd54}</destination>
+			<destination>{26f36b89-c05f-48e6-905b-6e4880952f87}</destination>
+			<destination>{4cef2c36-bcbc-484f-a942-b7dc5089924f}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{72329dff-7939-48cb-aabe-8fdb797a3169}" />
@@ -208,4 +211,31 @@
 	</object>
 	<object class="MixerBusFader" id="{6f865f03-1095-4c98-ba42-09ecf30e6e7b}" />
 	<object class="MixerBusFader" id="{004fc591-fdcd-433f-8d90-e69d79c637e2}" />
+	<object class="DistortionEffect" id="{a1b50d41-3ab7-4a09-952d-f466814ebd54}">
+		<property name="bypass">
+			<value>true</value>
+		</property>
+		<property name="level">
+			<value>0.599999964</value>
+		</property>
+	</object>
+	<object class="FlangerEffect" id="{26f36b89-c05f-48e6-905b-6e4880952f87}">
+		<property name="bypass">
+			<value>true</value>
+		</property>
+		<property name="rate">
+			<value>3.20000005</value>
+		</property>
+	</object>
+	<object class="ChorusEffect" id="{4cef2c36-bcbc-484f-a942-b7dc5089924f}">
+		<property name="bypass">
+			<value>true</value>
+		</property>
+		<property name="rate">
+			<value>2.4000001</value>
+		</property>
+		<property name="depth">
+			<value>20</value>
+		</property>
+	</object>
 </objects>
