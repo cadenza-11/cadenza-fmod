@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.22/OSX64-clang" 1777250403
+<REAPER_PROJECT 0.1 "7.22/OSX64-clang" 1777360940
   <NOTES 0 2
   >
   RIPPLE 0
@@ -208,7 +208,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -228,7 +228,7 @@
       FADEIN 1 1.99412179061945 0 1 0 0 0
       FADEOUT 1 4.02970476607008 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {D994B4AF-2A4C-0348-A0A6-04947CB3F64B}
       IID 3
       NAME Whiptails_Full_Preview.mp3
@@ -239,6 +239,54 @@
       GUID {F3D66A60-B82A-3E41-AC52-0AFB655723F1}
       <SOURCE MP3
         FILE "Media/Whiptails_Full_Preview.mp3" 1
+      >
+    >
+  >
+  <TRACK {1B751525-EB20-E342-BE01-4CF09F7E6B77}
+    NAME Preview_Orchestra
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1B751525-EB20-E342-BE01-4CF09F7E6B77}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 10
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.99412179061945 0 1 0 0 0
+      FADEOUT 1 4.00460115238596 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {152C9237-F138-C74D-AF00-0E9EB7F5E0B3}
+      IID 45
+      NAME Requiem-Master-imported.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {62B62F01-6132-224E-A05B-C6783E1DECD8}
+      <SOURCE WAVE
+        FILE "Media/Requiem-Master-imported.wav"
       >
     >
   >
