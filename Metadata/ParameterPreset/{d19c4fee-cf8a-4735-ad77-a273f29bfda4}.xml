@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{d19c4fee-cf8a-4735-ad77-a273f29bfda4}">
+		<property name="name">
+			<value>Flute</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b79b8528-5a2a-4677-9953-3ece844824f3}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{b6dc5991-bad9-4af1-ada1-c6b30cdf769a}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{b6dc5991-bad9-4af1-ada1-c6b30cdf769a}">
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

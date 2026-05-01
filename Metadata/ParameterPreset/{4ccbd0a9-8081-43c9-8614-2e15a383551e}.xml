@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{4ccbd0a9-8081-43c9-8614-2e15a383551e}">
+		<property name="name">
+			<value>Clarinet</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b79b8528-5a2a-4677-9953-3ece844824f3}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{fbbb3154-2c8f-4c2f-b3ab-76c07af19e3c}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{fbbb3154-2c8f-4c2f-b3ab-76c07af19e3c}">
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

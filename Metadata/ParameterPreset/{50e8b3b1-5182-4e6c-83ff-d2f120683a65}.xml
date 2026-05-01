@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{50e8b3b1-5182-4e6c-83ff-d2f120683a65}">
+		<property name="name">
+			<value>Trumpet</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b79b8528-5a2a-4677-9953-3ece844824f3}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{2a604188-5726-4d43-a2da-4e3ecec46935}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{2a604188-5726-4d43-a2da-4e3ecec46935}">
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

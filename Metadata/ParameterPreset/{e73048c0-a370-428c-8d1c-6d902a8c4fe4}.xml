@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{e73048c0-a370-428c-8d1c-6d902a8c4fe4}">
+		<property name="name">
+			<value>Oboe</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b79b8528-5a2a-4677-9953-3ece844824f3}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{c719b6a0-5ffb-4a12-84bd-c5485901e8fb}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{c719b6a0-5ffb-4a12-84bd-c5485901e8fb}">
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

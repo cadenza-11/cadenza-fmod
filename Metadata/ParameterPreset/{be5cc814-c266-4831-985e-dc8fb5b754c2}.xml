@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{be5cc814-c266-4831-985e-dc8fb5b754c2}">
+		<property name="name">
+			<value>Contrabass</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b79b8528-5a2a-4677-9953-3ece844824f3}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{297dfb74-1829-4712-9135-cb7457af7310}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{297dfb74-1829-4712-9135-cb7457af7310}">
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

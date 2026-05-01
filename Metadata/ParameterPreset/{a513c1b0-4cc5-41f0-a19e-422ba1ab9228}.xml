@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{a513c1b0-4cc5-41f0-a19e-422ba1ab9228}">
+		<property name="name">
+			<value>Baritones</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b79b8528-5a2a-4677-9953-3ece844824f3}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{8f165b24-1b49-4381-95f6-ce41ca65700d}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{8f165b24-1b49-4381-95f6-ce41ca65700d}">
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
