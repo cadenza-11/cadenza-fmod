@@ -1,5 +1,5 @@
-# Cadenza: FMOD Studio Repo
-This repository contains the .fspro (FMOD Studio Project) project file used to curate and build the audio banks for the Cadenza Unity game.
+# BEATDOWN: FMOD Studio Repo
+This repository contains both the REAPER project files and FMOD Studio Project project file used to curate and build the audio banks for the BEATDOWN Unity game.
 
 ## Installation
 1. Clone this repository to your local filesystem. [*(how to clone?)*](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
